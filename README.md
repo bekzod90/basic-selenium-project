@@ -82,7 +82,7 @@ See the full list of [possible dimensions](https://github.com/christian-draeger/
 The specific values of the breakpoints can be configured in the [config.properties](https://github.com/christian-draeger/basic-selenium-project/blob/8d6d025ec895d831e76b9013c1648307edf0756f/src/test/resources/config.properties) file.
 
 ##### @EnabledOnOs
-You can control that a test will ONLY be executed on specific operating systems.
+You can control that a test will be ONLY executed on specific operating systems.
 (works on class and method level)
 
     @EnabledOnOs(LINUX, WINDOWS)
