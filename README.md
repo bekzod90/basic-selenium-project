@@ -231,7 +231,6 @@ Please have a look at the [example test](https://github.com/christian-draeger/se
     ./gradlew dependencyUpdates
 
 ____________________
-____________________
 
 Hit count:
 
