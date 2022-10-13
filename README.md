@@ -73,7 +73,6 @@ This will always execute the annotated tests with the selected browser, no matte
 See the full list of possible [parameter values](https://github.com/christian-draeger/basic-selenium-project/blob/8d6d025ec895d831e76b9013c1648307edf0756f/src/test/java/config/driver/DriverFactory.kt#L115).
 
 Furthermore you can conveniently set the Browser windows dimension that is used for the test by setting the dimension field:
-
     @Browser(dimension = XLARGE)
     
 This will lead to a window resize before the actual test starts and is especially helpful if the 
