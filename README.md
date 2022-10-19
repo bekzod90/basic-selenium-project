@@ -197,7 +197,6 @@ It's possible to rerun failing tests automatically when they are flaky with the 
 The [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) is already implemented and can be used to Mock External Requests.
 This is especially helpful to mock dynamic data on the page under test, modify parts of the request that are not possible with some browsers (like setting custom headers in Internet Explorer) as well as speeding up 
 your tests by mocking thinks that are out of scope of a certain test (for instance tracking scripts).
-
 ---
 
 #### 🚨 Assertions
