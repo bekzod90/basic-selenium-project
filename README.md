@@ -229,7 +229,6 @@ Please have a look at the [example test](https://github.com/christian-draeger/se
 #### check for dependency updates
 
     ./gradlew dependencyUpdates
-
 ____________________
 ____________________
 
