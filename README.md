@@ -232,7 +232,6 @@ Please have a look at the [example test](https://github.com/christian-draeger/se
 
 ____________________
 ____________________
-
 Hit count:
 
 ![HitCount](http://hits.dwyl.io/christian-draeger/basic-selenium-project.svg)
