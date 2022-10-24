@@ -25,7 +25,6 @@ If you are looking for a pure Java project that uses maven as build tool please 
 
 ### Prerequisites
 * \>=**JDK8** installed
-
 #### Features:
 * [all popular browsers preconfigured](#-implemented-browsers)
     * downloading OS specific binaries automatically
