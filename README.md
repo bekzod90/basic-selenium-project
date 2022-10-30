@@ -122,7 +122,6 @@ It will have out-of-the-box support for typical helper methods like `isAt()`, et
 To instantiate a page object in a test class just the the following:
 
 [kotlin example](https://github.com/christian-draeger/basic-selenium-project/blob/90085a3e77d0f8af9e3990fb2512a0e52255cecc/src/test/java/tests/browser/ExampleIT.kt#L29):
-
     @Page
     lateinit var page: StartPage
 
